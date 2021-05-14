@@ -1,2 +1,2 @@
-x = 'Pathum'
-print('Hello ' + x + '!')
+y = 'Pathum'
+print('Hello ' + y + '!')
