@@ -1,6 +1,6 @@
 # Tut-Ses #
 
-Just to teach some basic python code techniques taught at IIT.
+Just to teach some basic python code techniques.
 
 ## Overview of [test.py](https://github.com/Pathum312/Tut-Ses/blob/master/test.py) ##
 
