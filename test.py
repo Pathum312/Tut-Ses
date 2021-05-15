@@ -4,6 +4,10 @@ import numpy as np
 
 # Tut 1
 
+print("")
+print("Tut 1")
+print("")
+
 id = [0, 1, 2, 3]
 name = ["Pathum", "Johan", "Tharaka", "Rehan"]
 
@@ -23,6 +27,9 @@ print("")
 
 # Tut 2
 
+print("Tut 2")
+print("")
+
 x = [1, 2, 3, 4, 5]
 data = np.array(
     [
@@ -39,6 +46,9 @@ print(pd.DataFrame(data, x, x))
 print("")
 
 # Tut 3
+
+print("Tut 3")
+print("")
 
 x = 2
 y = 3
