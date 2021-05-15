@@ -108,3 +108,11 @@ print(r.draw())
 | 4      | 16     | 64   |
 +--------+--------+------+
 ```
+
+### \# Imports Used ###
+
+```
+from texttable import Texttable
+import pandas as pd
+import numpy as np
+```
