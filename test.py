@@ -35,3 +35,25 @@ data = np.array(
 )
 
 print(pd.DataFrame(data, x, x))
+
+print("")
+
+# Tut 3
+
+x = 2
+y = 3
+z = 4
+
+num = [x, y, z]
+square = [pow(x, 2), pow(y, 2), pow(z, 2)]
+cube = [pow(x, 3), pow(y, 3), pow(z, 3)]
+
+count1 = 0
+
+r = Texttable()
+r.add_row(["Number", "Square", "Cube"])
+while count1 < len(num):
+    r.add_row([num[count1], square[count1], cube[count1]])
+    count1 = count1 + 1
+
+print(r.draw())
